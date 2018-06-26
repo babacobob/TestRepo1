@@ -1,5 +1,6 @@
 #!/bin/sh
 #Branch Test script
+#Second modify of script
 echo "Setting access to Git via CNTLM service - Local proxy config modified"
 export http_proxy=http://localhost:3128/
 export https_proxy=http://localhost:3128/
