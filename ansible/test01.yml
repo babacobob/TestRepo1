@@ -3,3 +3,4 @@
    tasks:
      -name: My Test Task
         state: present
+      become: True
