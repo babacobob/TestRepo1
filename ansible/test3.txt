@@ -1,0 +1,319 @@
+/git-bash.exe  /LICENSE.txt	   /unins001.dat  /unins001.msg
+/git-cmd.exe   /ReleaseNotes.html  /unins001.exe
+
+/bin:
+[.exe			   locate.exe			 nohup.exe
+addgnupghome		   logname.exe			 notepad
+applygnupgdefaults	   ls.exe			 nproc.exe
+arch.exe		   lsattr.exe			 numfmt.exe
+astextplain		   mac2unix.exe			 od.exe
+autopoint		   md5sum.exe			 openssl.exe
+awk.exe			   minidumper.exe		 p11-kit.exe
+b2sum.exe		   mintheme			 passwd.exe
+backup			   mintty.exe			 paste.exe
+base32.exe		   mkdir.exe			 patch.exe
+base64.exe		   mkfifo.exe			 pathchk.exe
+basename.exe		   mkgroup.exe			 perl.exe
+basenc.exe		   mknod.exe			 perl5.26.2.exe
+bash.exe		   mkpasswd.exe			 pinentry.exe
+bashbug			   mktemp.exe			 pinentry-w32.exe
+bunzip2.exe		   mount.exe			 pinky.exe
+bzcat.exe		   mpicalc.exe			 pkcs1-conv.exe
+bzcmp			   msgattrib.exe		 pldd.exe
+bzdiff			   msgcat.exe			 pluginviewer.exe
+bzegrep			   msgcmp.exe			 pr.exe
+bzfgrep			   msgcomm.exe			 printenv.exe
+bzgrep			   msgconv.exe			 printf.exe
+bzip2.exe		   msgen.exe			 ps.exe
+bzip2recover.exe	   msgexec.exe			 psl.exe
+bzless			   msgfilter.exe		 psl-make-dafsa
+bzmore			   msgfmt.exe			 ptx.exe
+c_rehash		   msggrep.exe			 pwd.exe
+captoinfo.exe		   msginit.exe			 readlink.exe
+cat.exe			   msgmerge.exe			 realpath.exe
+chattr.exe		   msgunfmt.exe			 rebase.exe
+chcon.exe		   msguniq.exe			 rebaseall
+chgrp.exe		   msys-2.0.dll			 recode-sr-latin.exe
+chmod.exe		   msys-apr-1-0.dll		 regtool.exe
+chown.exe		   msys-aprutil-1-0.dll		 reset.exe
+chroot.exe		   msys-asn1-8.dll		 restore
+cksum.exe		   msys-asprintf-0.dll		 rm.exe
+clear.exe		   msys-assuan-0.dll		 rmdir.exe
+cmp.exe			   msys-atomic-1.dll		 rnano.exe
+column.exe		   msys-blkid-1.dll		 runcon.exe
+comm.exe		   msys-bz2-1.dll		 rview.exe
+core_perl		   msys-charset-1.dll		 rvim.exe
+cp.exe			   msys-com_err-1.dll		 sasldblistusers2.exe
+csplit.exe		   msys-crypt-0.dll		 saslpasswd2.exe
+cut.exe			   msys-crypto-1.0.0.dll	 scp.exe
+cygcheck.exe		   msys-crypto-1.1.dll		 sdiff.exe
+cygpath.exe		   msys-curl-4.dll		 sed.exe
+cygwin-console-helper.exe  msys-edit-0.dll		 seq.exe
+d2u.exe			   msys-expat-1.dll		 setfacl.exe
+dash.exe		   msys-exslt-0.dll		 setmetamode.exe
+date.exe		   msys-fdisk-1.dll		 sexp-conv.exe
+dd.exe			   msys-ffi-6.dll		 sftp.exe
+df.exe			   msys-formw6.dll		 sh.exe
+diff.exe		   msys-gcc_s-seh-1.dll		 sha1sum.exe
+diff3.exe		   msys-gcrypt-20.dll		 sha224sum.exe
+dir.exe			   msys-gettextlib-0-19-8-1.dll  sha256sum.exe
+dircolors.exe		   msys-gettextpo-0.dll		 sha384sum.exe
+dirmngr.exe		   msys-gettextsrc-0-19-8-1.dll  sha512sum.exe
+dirmngr-client.exe	   msys-gio-2.0-0.dll		 shred.exe
+dirname.exe		   msys-glib-2.0-0.dll		 shuf.exe
+docx2txt		   msys-gmodule-2.0-0.dll	 sleep.exe
+docx2txt.pl		   msys-gmp-10.dll		 sort.exe
+dos2unix.exe		   msys-gmpxx-4.dll		 split.exe
+du.exe			   msys-gnutls-30.dll		 ssh.exe
+dumpsexp.exe		   msys-gnutlsxx-28.dll		 ssh-add.exe
+echo.exe		   msys-gobject-2.0-0.dll	 ssh-agent.exe
+egrep			   msys-gomp-1.dll		 ssh-copy-id
+env.exe			   msys-gpg-error-0.dll		 sshd.exe
+envsubst.exe		   msys-gssapi-3.dll		 ssh-keygen.exe
+ex.exe			   msys-gthread-2.0-0.dll	 ssh-keyscan.exe
+expand.exe		   msys-hcrypto-4.dll		 ssh-pageant.exe
+expr.exe		   msys-hdb-9.dll		 ssp.exe
+factor.exe		   msys-heimbase-1.dll		 start
+false.exe		   msys-heimntlm-0.dll		 stat.exe
+fgrep			   msys-history8.dll		 strace.exe
+file.exe		   msys-hogweed-5.dll		 stty.exe
+find.exe		   msys-hx509-5.dll		 sum.exe
+findssl.sh		   msys-iconv-2.dll		 sync.exe
+fmt.exe			   msys-idn2-0.dll		 tabs.exe
+fold.exe		   msys-intl-8.dll		 tac.exe
+funzip.exe		   msys-kadm5clnt-7.dll		 tail.exe
+gapplication.exe	   msys-kadm5srv-8.dll		 tar.exe
+gawk.exe		   msys-kafs-0.dll		 tee.exe
+gawk-5.0.0.exe		   msys-kdc-2.dll		 test.exe
+gdbus.exe		   msys-krb5-26.dll		 tic.exe
+gencat.exe		   msys-ksba-8.dll		 tig.exe
+getconf.exe		   msys-lzma-5.dll		 timeout.exe
+getemojis		   msys-magic-1.dll		 toe.exe
+getfacl.exe		   msys-menuw6.dll		 touch.exe
+getopt.exe		   msys-metalink-3.dll		 tput.exe
+gettext.exe		   msys-mpfr-6.dll		 tr.exe
+gettext.sh		   msys-ncurses++w6.dll		 true.exe
+gettextize		   msys-ncursesw6.dll		 truncate.exe
+gio-querymodules.exe	   msys-nettle-7.dll		 trust.exe
+git-flow		   msys-nghttp2-14.dll		 tset.exe
+git-flow-bugfix		   msys-npth-0.dll		 tsort.exe
+gitflow-common		   msys-p11-kit-0.dll		 tty.exe
+git-flow-config		   msys-panelw6.dll		 tzset.exe
+git-flow-feature	   msys-pcre-1.dll		 u2d.exe
+git-flow-hotfix		   msys-pcre2-8-0.dll		 umount.exe
+git-flow-init		   msys-perl5_26.dll		 uname.exe
+git-flow-log		   msys-psl-5.dll		 uncompress
+git-flow-release	   msys-readline7.dll		 unexpand.exe
+gitflow-shFlags		   msys-readline8.dll		 uniq.exe
+git-flow-support	   msys-roken-18.dll		 unix2dos.exe
+git-flow-version	   msys-sasl2-3.dll		 unix2mac.exe
+gkill.exe		   msys-serf-1-0.dll		 unlink.exe
+glib-compile-schemas.exe   msys-sl-0.dll		 unzip.exe
+gobject-query.exe	   msys-smartcols-1.dll		 unzipsfx.exe
+gpg.exe			   msys-sqlite3-0.dll		 update-ca-trust
+gpg-agent.exe		   msys-ssh2-1.dll		 updatedb
+gpgconf.exe		   msys-ssl-1.0.0.dll		 users.exe
+gpg-connect-agent.exe	   msys-ssl-1.1.dll		 vdir.exe
+gpg-error.exe		   msys-svn_client-1-0.dll	 vendor_perl
+gpgparsemail.exe	   msys-svn_delta-1-0.dll	 vi
+gpgscm.exe		   msys-svn_diff-1-0.dll	 view.exe
+gpgsm.exe		   msys-svn_fs_fs-1-0.dll	 vim.exe
+gpgtar.exe		   msys-svn_fs_util-1-0.dll	 vimdiff.exe
+gpgv.exe		   msys-svn_fs_x-1-0.dll	 vimtutor
+gpg-wks-server.exe	   msys-svn_fs-1-0.dll		 watchgnupg.exe
+grep.exe		   msys-svn_ra_local-1-0.dll	 wc.exe
+groups.exe		   msys-svn_ra_serf-1-0.dll	 which.exe
+gsettings.exe		   msys-svn_ra_svn-1-0.dll	 who.exe
+gunzip			   msys-svn_ra-1-0.dll		 whoami.exe
+gzexe			   msys-svn_repos-1-0.dll	 winpty.dll
+gzip.exe		   msys-svn_subr-1-0.dll	 winpty.exe
+head.exe		   msys-svn_swig_perl-1-0.dll	 winpty-agent.exe
+hmac256.exe		   msys-svn_swig_py-1-0.dll	 winpty-debugserver.exe
+hostid.exe		   msys-svn_swig_ruby-1-0.dll	 wordpad
+hostname.exe		   msys-svn_wc-1-0.dll		 xargs.exe
+iconv.exe		   msys-tasn1-6.dll		 xgettext.exe
+id.exe			   msys-ticw6.dll		 xxd.exe
+infocmp.exe		   msys-unistring-2.dll		 yat2m.exe
+infotocap.exe		   msys-uuid-1.dll		 yes.exe
+install.exe		   msys-wind-0.dll		 zcat
+join.exe		   msys-xml2-2.dll		 zcmp
+kbxutil.exe		   msys-xslt-1.dll		 zdiff
+kill.exe		   msys-z.dll			 zegrep
+ldd.exe			   mv.exe			 zfgrep
+ldh.exe			   nano.exe			 zforce
+less.exe		   nettle-hash.exe		 zgrep
+lessecho.exe		   nettle-lfib-stream.exe	 zipgrep
+lesskey.exe		   nettle-pbkdf2.exe		 zipinfo.exe
+link.exe		   ngettext.exe			 zless
+ln.exe			   nice.exe			 zmore
+locale.exe		   nl.exe			 znew
+
+/cmd:
+git.exe      gitk.exe	  start-ssh-agent.cmd
+git-gui.exe  git-lfs.exe  start-ssh-pageant.cmd
+
+/dev:
+clipboard  console  full    ptmx    sda   sda3	sdc   shm     stdout  urandom
+conin	   dsp	    mqueue  pty0    sda1  sdb	sdc2  stderr  tty     windows
+conout	   fd	    null    random  sda2  sdb2	sdd   stdin   ttyS0   zero
+
+/etc:
+bash.bash_logout  hosts		       nsswitch.conf	     services
+bash.bashrc	  inputrc	       package-versions.txt  ssh
+DIR_COLORS	  install-options.txt  pkcs11		     tigrc
+docx2txt.config   msystem	       pki		     vimrc
+fstab		  mtab		       profile
+gitattributes	  nanorc	       profile.d
+gitconfig	  networks	       protocols
+
+/mingw64:
+bin  doc  etc  lib  libexec  share  ssl
+
+/proc:
+1898  2591	filesystems  mounts	 registry32  swaps    version
+1986  cpuinfo	loadavg      net	 registry64  sys
+1987  cygdrive	meminfo      partitions  self	     sysvipc
+2093  devices	misc	     registry	 stat	     uptime
+
+/tmp:
+_MEI101522
+1462296116209.jpg
+1512296121558.jpg
+1522296122625.jpg
+1592296129196.jpg
+1602296130291.jpg
+1622296132521.jpg
+1632296133661.jpg
+1672296137507.jpg
+1722296142313.jpg
+1792296149473.jpg
+1822296152449.jpg
+1852296155598.jpg
+1892296158696.jpg
+18e190413af045db88dfbd29609eb877.db.ses
+1962296166398.jpg
+425-2003572100.jpg
+4592293429305.jpg
+4773c6e7-2eca-4fd5-96f0-de559947a67a
+5142293483988.jpg
+5442293514261.jpg
+5662293536073.jpg
+6222293591830.jpg
+6662293636173.jpg
+6742293643756.jpg
+6822293652236.jpg
+6882293657755.jpg
+7042293674123.jpg
+7632295732773.jpg
+7652295735302.jpg
+7682295738074.jpg
+7692295739192.jpg
+7712295740796.jpg
+7722295742123.jpg
+7742295744463.jpg
+7762295745908.jpg
+7772295747626.jpg
+7802295750379.jpg
+7832295753203.jpg
+7872295757340.jpg
+7902295760375.jpg
+7932295763263.jpg
+7962295766094.jpg
+8922293862375.jpg
+8952293864828.jpg
+8972293867169.jpg
+8982293868283.jpg
+9002293869667.jpg
+9012293870735.jpg
+9022293872219.jpg
+9032293873537.jpg
+9052293875103.jpg
+9252293894771.jpg
+9292293899202.jpg
+9302293900505.jpg
+9332293903129.jpg
+9342293904202.jpg
+9362293906383.jpg
+9382293907843.jpg
+9402293910260.jpg
+aria-debug-11244.log
+aria-debug-14524.log
+comtypes_cache
+CUH_PCULog0.txt
+CUH_PCULog1.txt
+CUH_PCULog2.txt
+CUH_PCULog3.txt
+DIMLog.txt
+Discord\ Crashes
+dxdiag.txt
+ecache.bin
+FXSAPIDebugLogFile.txt
+is-D5DDK.tmp
+is-O83UB.tmp
+jusched.log
+mat-debug-10160.log
+mat-debug-11416.log
+mat-debug-11928.log
+mat-debug-12148.log
+mat-debug-12216.log
+mat-debug-12348.log
+mat-debug-12408.log
+mat-debug-12912.log
+mat-debug-12944.log
+mat-debug-13036.log
+mat-debug-13636.log
+mat-debug-13844.log
+mat-debug-14552.log
+mat-debug-14720.log
+mat-debug-15072.log
+mat-debug-15336.log
+mat-debug-15436.log
+mat-debug-16580.log
+mat-debug-16792.log
+mat-debug-17340.log
+mat-debug-17620.log
+mat-debug-19264.log
+mat-debug-21208.log
+mat-debug-23000.log
+mat-debug-23440.log
+mat-debug-23528.log
+mat-debug-23784.log
+mat-debug-24028.log
+mat-debug-25980.log
+mat-debug-26164.log
+mat-debug-26184.log
+mat-debug-3700.log
+mat-debug-4888.log
+mat-debug-5128.log
+mat-debug-5284.log
+mat-debug-6644.log
+mat-debug-6992.log
+mat-debug-7984.log
+mat-debug-856.log
+MicroImageDir
+MicroThemePackDir
+MONDAS-20191120-2243.log
+MONDAS-20191123-2006.log
+mozilla-temp-files
+NVIDIA\ Corporation
+sa.Microsoft.MicrosoftPrinttoPDFSettings_8wekyb3d8bbwe_1__.Public.InstallAgent.dat
+Setup\ Log\ 2019-11-20\ #001.txt
+Setup\ Log\ 2019-11-20\ #002.txt
+Setup\ Log\ 2019-11-26\ #001.txt
+ssh-kknahNdP4kbk
+ssh-vMua7gS1vjCV
+tmpfcckto
+trkcfg.ini
+wct4B03.tmp
+wct4EFC.tmp
+wct52F5.tmp
+wct646B.tmp
+wct922C.tmp
+wctA8D2.tmp
+wctB100.tmp
+wctB44D.tmp
+wctBC41.tmp
+wctBC94.tmp
+
+/usr:
+bin  etc  lib  libexec	share  ssl
