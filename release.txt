@@ -1,0 +1,28 @@
+Adobe				      Microsoft\ Visual\ Studio
+Application\ Data		      Mozilla
+AVG				      ntuser.pol
+Battle.net			      NVIDIA
+Blizzard\ Entertainment		      NVIDIA\ Corporation
+Brother				      NZBGet
+Caphyon				      Oracle
+CELSYS				      Origin
+Common\ Files			      Package\ Cache
+Comms				      Packages
+Corel				      Protexis64
+DAZ\ 3D				      regid.1986-12.com.adobe
+dbg				      regid.1991-06.com.microsoft
+Desktop				      SoftwareDistribution
+dftmp				      Sophos
+DigitalWave.ApplicationUpdater_files  Start\ Menu
+Documents			      Templates
+Electronic\ Arts		      UniqueId
+Epic				      Unity
+F5\ Networks			      USOPrivate
+Fuji\ Xerox			      USOShared
+Gaijin				      VirtualBox
+GameMakerStudio2		      VsTelemetry
+Git				      Wargaming.net
+GOG.com				      Western\ Digital
+LogiShrd			      Windows\ App\ Certification\ Kit
+Microsoft			      WindowsHolographicDevices
+Microsoft\ OneDrive
