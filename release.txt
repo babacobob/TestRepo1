@@ -1,0 +1,3 @@
+GodotSharp.csproj.CoreCompileInputs.cache  GodotSharp.dll
+GodotSharp.csproj.FileListAbsolute.txt	   GodotSharp.pdb
+GodotSharp.csprojAssemblyReference.cache
