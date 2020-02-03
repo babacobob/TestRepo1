@@ -1,0 +1,3 @@
+bin  etc	   LICENSE.txt	ReleaseNotes.html  unins001.exe
+cmd  git-bash.exe  mingw64	tmp		   unins001.msg
+dev  git-cmd.exe   proc		unins001.dat	   usr
