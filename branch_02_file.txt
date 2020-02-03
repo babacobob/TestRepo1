@@ -1,39 +1,583 @@
-3D\ Objects
-ansel
-AppData
-Application\ Data
-code
-Contacts
-Cookies
-Desktop
-Documents
-Downloads
-Favorites
-Google\ Drive
-Heaven
-Links
-Local\ Settings
-MicrosoftEdgeBackups
-Music
-My\ Documents
-NetHood
-node_modules
-NTUSER.DAT
-ntuser.dat.LOG1
-ntuser.dat.LOG2
-NTUSER.DAT{77dafbd2-6330-11e8-bf79-7085c24205ba}.TM.blf
-NTUSER.DAT{77dafbd2-6330-11e8-bf79-7085c24205ba}.TMContainer00000000000000000001.regtrans-ms
-NTUSER.DAT{77dafbd2-6330-11e8-bf79-7085c24205ba}.TMContainer00000000000000000002.regtrans-ms
-ntuser.ini
-OneDrive
-package-lock.json
-Pictures
-PrintHood
-Recent
-Saved\ Games
-Searches
-SendTo
-source
-Start\ Menu
-Templates
-Videos
+/c/ProgramData/ntuser.pol
+
+/c/ProgramData/Adobe:
+ARM  SLStore
+
+/c/ProgramData/Application Data:
+Adobe				      Microsoft\ Visual\ Studio
+Application\ Data		      Mozilla
+AVG				      ntuser.pol
+Battle.net			      NVIDIA
+Blizzard\ Entertainment		      NVIDIA\ Corporation
+Brother				      NZBGet
+Caphyon				      Oracle
+CELSYS				      Origin
+Common\ Files			      Package\ Cache
+Comms				      Packages
+Corel				      Protexis64
+DAZ\ 3D				      regid.1986-12.com.adobe
+dbg				      regid.1991-06.com.microsoft
+Desktop				      SoftwareDistribution
+dftmp				      Sophos
+DigitalWave.ApplicationUpdater_files  Start\ Menu
+Documents			      Templates
+Electronic\ Arts		      UniqueId
+Epic				      Unity
+F5\ Networks			      USOPrivate
+Fuji\ Xerox			      USOShared
+Gaijin				      VirtualBox
+GameMakerStudio2		      VsTelemetry
+Git				      Wargaming.net
+GOG.com				      Western\ Digital
+LogiShrd			      Windows\ App\ Certification\ Kit
+Microsoft			      WindowsHolographicDevices
+Microsoft\ OneDrive
+
+/c/ProgramData/AVG:
+Persistent\ Data  Subscriptions
+
+/c/ProgramData/Battle.net:
+Agent  Setup
+
+/c/ProgramData/Blizzard Entertainment:
+Battle.net
+
+/c/ProgramData/Brother:
+BrLog
+
+/c/ProgramData/Caphyon:
+Advanced\ Installer
+
+/c/ProgramData/CELSYS:
+CLIPStudio
+
+/c/ProgramData/Common Files:
+A6242B87-D827-01E4-93DD-52FBDB403054.dat
+
+/c/ProgramData/Comms:
+
+/c/ProgramData/Corel:
+AfterShot\ 3		     Downloads	Painter\ 2019		PaintShop\ Pro
+Corel\ PaintShop\ Pro\ 2020  Messages	Painter\ Essentials\ 6	ParticleShop\ 1
+
+/c/ProgramData/DAZ 3D:
+CMS  Studio4
+
+/c/ProgramData/dbg:
+
+/c/ProgramData/Desktop:
+Arc.lnk
+Battle.net.lnk
+Battlefield\ Hardline.lnk
+Bethesda.net\ Launcher.lnk
+CLIP\ STUDIO.lnk
+Corel\ AfterShot\ 3\ (64-bit).lnk
+Corel\ PaintShop\ Pro\ 2020\ (64-bit).lnk
+Corel\ PaintShop\ Pro\ 2020.lnk
+Data\ Lifeguard\ Diagnostic\ for\ Windows.lnk
+desktop.ini
+Diablo\ III.lnk
+DVDVideoSoft\ Free\ Studio.lnk
+Epic\ Games\ Launcher.lnk
+Firefox.lnk
+Free\ YouTube\ Download.lnk
+Free\ YouTube\ To\ MP3\ Converter.lnk
+F-Stream\ Tuning.lnk
+Fuji\ Xerox\ Utilities.lnk
+GameMaker\ Studio\ 2.lnk
+GeForce\ Experience.lnk
+Git\ Bash.lnk
+GOG\ Galaxy.lnk
+Google\ Docs.lnk
+Google\ Sheets.lnk
+Google\ Slides.lnk
+Krita.lnk
+MiniAide\ Fat32\ Formatter\ Home\ Edition\ 1.05.lnk
+Oracle\ VM\ VirtualBox.lnk
+Origin.lnk
+Paintstorm\ Studio.lnk
+PLC\ 500Mbps\ Utility.lnk
+PuTTY.lnk
+Pyxel\ Edit.lnk
+Rebelle\ 2.lnk
+Sejda\ PDF\ Desktop.lnk
+Star\ Trek\ Online.lnk
+Steam.lnk
+TeamSpeak\ 3\ Client.lnk
+tpPLC.lnk
+Unity\ 2018.2.5f1\ (64-bit).lnk
+Unity\ Hub.lnk
+
+/c/ProgramData/dftmp:
+DevFabric.config
+
+/c/ProgramData/DigitalWave.ApplicationUpdater_files:
+install_app_60.exe  install_app_61.exe
+
+/c/ProgramData/Documents:
+AdobeGCData  DAZ\ 3D	  My\ DAZ\ 3D\ Library	My\ Pictures  Python\ Scripts
+Arc	     desktop.ini  My\ Music		My\ Videos
+
+/c/ProgramData/Electronic Arts:
+EA\ Services
+
+/c/ProgramData/Epic:
+EpicGamesLauncher  UnrealEngineLauncher
+
+/c/ProgramData/F5 Networks:
+f5unistall.exe
+
+/c/ProgramData/Fuji Xerox:
+PrtDrv
+
+/c/ProgramData/Gaijin:
+downloads
+
+/c/ProgramData/GameMakerStudio2:
+Cache  run_timers.json	runtime.json  runtime_feeds.json  Skins  ui.log
+
+/c/ProgramData/Git:
+config
+
+/c/ProgramData/GOG.com:
+Galaxy	supportInstaller
+
+/c/ProgramData/LogiShrd:
+Updater
+
+/c/ProgramData/Microsoft:
+AppV	       Settings
+Blend	       SmsRouter
+ClickToRun     Spectrum
+Crypto	       Speech_OneCore
+DataMart       Storage\ Health
+Device\ Stage  UEV
+DeviceSync     User\ Account\ Pictures
+Diagnosis      Vault
+DRM	       VisualStudio
+Event\ Viewer  VisualStudioSecondaryInstaller
+HTML\ Help     WDF
+IdentityCRL    Windows
+MapData        Windows\ Defender
+MF	       Windows\ Defender\ Advanced\ Threat\ Protection
+NetFramework   Windows\ NT
+Network        Windows\ Security\ Health
+Office	       WinMSIPC
+Phone\ Tools   WPD
+PlayReady      WwanSvc
+Provisioning   XboxLive
+Search
+
+/c/ProgramData/Microsoft OneDrive:
+setup
+
+/c/ProgramData/Microsoft Visual Studio:
+MachineStorage.dat  MachineStorage.dat.bak
+
+/c/ProgramData/Mozilla:
+updates
+
+/c/ProgramData/NVIDIA:
+DisplaySessionContainer1.log		    PocoInitializer_3332.log_backup1
+DisplaySessionContainer1.log_backup1	    PocoInitializer_3336.log
+DisplaySessionContainer2.log		    PocoInitializer_3340.log
+DisplaySessionContainer2.log_backup1	    PocoInitializer_3348.log
+DisplaySessionContainer3.log		    PocoInitializer_3348.log_backup1
+MessageBus_10132_0x30E440.log		    PocoInitializer_3352.log
+MessageBus_10132_0x30E6D0.log		    PocoInitializer_3356.log
+MessageBus_10132_0x30E960.log		    PocoInitializer_3356.log_backup1
+MessageBus_10132_0x30EAA8.log		    PocoInitializer_3372.log
+MessageBus_10132_0x30EFC8.log		    PocoInitializer_3376.log
+MessageBus_12352_0x1BB337DD1F0.log	    PocoInitializer_3384.log
+MessageBus_3560_0x2571BCDB370.log	    PocoInitializer_3388.log
+MessageBus_3560_0x2571BF0A5A0.log	    PocoInitializer_3392.log
+MessageBus_3560_0x2571BF5E370.log	    PocoInitializer_3408.log
+MessageBus_3808_0x407DFE0.log		    PocoInitializer_3416.log
+MessageBus_3808_0x407E270.log		    PocoInitializer_3416.log_backup1
+MessageBus_3808_0x407E648.log		    PocoInitializer_3424.log
+MessageBus_3808_0x407EA20.log		    PocoInitializer_3428.log
+MessageBus_3808_0x407EB68.log		    PocoInitializer_3456.log
+MessageBus_3904_0x18CBCE5A950.log	    PocoInitializer_3468.log
+MessageBus_3904_0x18CBCEF39D0.log	    PocoInitializer_3472.log
+MessageBus_3904_0x18CBD0DEDC0.log	    PocoInitializer_3480.log
+MessageBus_5616_0x24484846660.log	    PocoInitializer_3500.log
+MessageBus_6372_0x1E3B9EF59A0.log	    PocoInitializer_3508.log
+MessageBus_7456_0x248622E6C60.log	    PocoInitializer_3520.log
+MessageBus_7476_0x247620569D0.log	    PocoInitializer_3532.log
+MessageBus_8604_0x2196F6F6E40.log	    PocoInitializer_3536.log
+MessageBus_9040_0x2D6EFCFD960.log	    PocoInitializer_3536.log_backup1
+MessageBus_9352_0x2A49158EB30.log	    PocoInitializer_3544.log
+MessageBus_9368_0x15F85951020.log	    PocoInitializer_3544.log_backup1
+MessageBusBroadcast.log			    PocoInitializer_3548.log
+MessageBusBroadcast.log.0		    PocoInitializer_3556.log
+NvContainerBatteryBoostCheck.log	    PocoInitializer_3560.log
+NvContainerBatteryBoostCheck.log_backup1    PocoInitializer_3560.log_backup1
+NvContainerDriverUpdateCheck.log	    PocoInitializer_3572.log
+NvContainerDriverUpdateCheck.log_backup1    PocoInitializer_3572.log_backup1
+NvContainerLocalSystem.log		    PocoInitializer_3584.log
+NvContainerLocalSystem.log_backup1	    PocoInitializer_3604.log
+NvContainerUser1.log			    PocoInitializer_3612.log
+NvContainerUser1.log_backup1		    PocoInitializer_3612.log_backup1
+NvContainerUser1SPUser.log		    PocoInitializer_3616.log
+NvContainerUser1SPUser.log_backup1	    PocoInitializer_3632.log
+NvContainerUser2.log			    PocoInitializer_3640.log
+NvContainerUser2.log_backup1		    PocoInitializer_3640.log_backup1
+NvContainerUser2SPUser.log		    PocoInitializer_3644.log
+NvContainerUser2SPUser.log_backup1	    PocoInitializer_3700.log
+NvContainerWatchdog.log			    PocoInitializer_3716.log
+NvContainerWatchdog.log_backup1		    PocoInitializer_3728.log
+NVDisplay.ContainerLocalSystem.log	    PocoInitializer_3728.log_backup1
+NVDisplay.ContainerLocalSystem.log_backup1  PocoInitializer_3760.log
+NVDisplayContainerWatchdog.log		    PocoInitializer_3764.log
+NVDisplayContainerWatchdog.log_backup1	    PocoInitializer_3772.log
+NvMessageBusBroadcastPlugin.log		    PocoInitializer_3796.log
+NvMessageBusBroadcastPlugin.log_backup1     PocoInitializer_3808.log
+NvPluginNvapiMonitor.log		    PocoInitializer_3816.log
+NvPluginNvapiMonitor.log_backup1	    PocoInitializer_3820.log
+NvStarted				    PocoInitializer_3856.log
+NvTelemetryContainer.log		    PocoInitializer_3864.log
+NvTelemetryContainer.log_backup1	    PocoInitializer_3864.log_backup1
+PocoInitializer_10024.log		    PocoInitializer_3876.log
+PocoInitializer_10132.log		    PocoInitializer_3876.log_backup1
+PocoInitializer_10216.log		    PocoInitializer_3896.log
+PocoInitializer_10624.log		    PocoInitializer_3904.log
+PocoInitializer_10656.log		    PocoInitializer_3912.log
+PocoInitializer_10668.log		    PocoInitializer_3972.log
+PocoInitializer_10708.log		    PocoInitializer_4036.log
+PocoInitializer_1076.log		    PocoInitializer_4104.log
+PocoInitializer_10884.log		    PocoInitializer_4108.log
+PocoInitializer_11056.log		    PocoInitializer_4128.log
+PocoInitializer_11136.log		    PocoInitializer_4384.log
+PocoInitializer_11208.log		    PocoInitializer_4424.log
+PocoInitializer_1136.log		    PocoInitializer_4568.log
+PocoInitializer_12136.log		    PocoInitializer_460.log
+PocoInitializer_12484.log		    PocoInitializer_4660.log
+PocoInitializer_1364.log		    PocoInitializer_5616.log
+PocoInitializer_13940.log		    PocoInitializer_6188.log
+PocoInitializer_14432.log		    PocoInitializer_6284.log
+PocoInitializer_15732.log		    PocoInitializer_6360.log
+PocoInitializer_16400.log		    PocoInitializer_6524.log
+PocoInitializer_16948.log		    PocoInitializer_6712.log
+PocoInitializer_18576.log		    PocoInitializer_7020.log
+PocoInitializer_18780.log		    PocoInitializer_7032.log
+PocoInitializer_2052.log		    PocoInitializer_7044.log
+PocoInitializer_20656.log		    PocoInitializer_7132.log
+PocoInitializer_2112.log		    PocoInitializer_7144.log
+PocoInitializer_21284.log		    PocoInitializer_7156.log
+PocoInitializer_21436.log		    PocoInitializer_7184.log
+PocoInitializer_2152.log		    PocoInitializer_7252.log
+PocoInitializer_2192.log		    PocoInitializer_7280.log
+PocoInitializer_2312.log		    PocoInitializer_7360.log
+PocoInitializer_23452.log		    PocoInitializer_7360.log_backup1
+PocoInitializer_2360.log		    PocoInitializer_7412.log
+PocoInitializer_2412.log		    PocoInitializer_7428.log
+PocoInitializer_2420.log		    PocoInitializer_7472.log
+PocoInitializer_2452.log		    PocoInitializer_7476.log
+PocoInitializer_2580.log		    PocoInitializer_7484.log
+PocoInitializer_2872.log		    PocoInitializer_7588.log
+PocoInitializer_3076.log		    PocoInitializer_7592.log
+PocoInitializer_3092.log		    PocoInitializer_7608.log
+PocoInitializer_3132.log		    PocoInitializer_7656.log
+PocoInitializer_3136.log		    PocoInitializer_7764.log
+PocoInitializer_3140.log		    PocoInitializer_7804.log
+PocoInitializer_3148.log		    PocoInitializer_7900.log
+PocoInitializer_3156.log		    PocoInitializer_7920.log
+PocoInitializer_3160.log		    PocoInitializer_84.log
+PocoInitializer_3164.log		    PocoInitializer_8524.log
+PocoInitializer_3180.log		    PocoInitializer_8732.log
+PocoInitializer_3184.log		    PocoInitializer_8936.log
+PocoInitializer_3196.log		    PocoInitializer_8956.log
+PocoInitializer_3200.log		    PocoInitializer_8964.log
+PocoInitializer_3224.log		    PocoInitializer_8996.log
+PocoInitializer_3264.log		    PocoInitializer_9012.log
+PocoInitializer_3264.log_backup1	    PocoInitializer_9096.log
+PocoInitializer_3272.log		    PocoInitializer_9128.log
+PocoInitializer_3300.log		    PocoInitializer_9176.log
+PocoInitializer_3308.log		    PocoInitializer_9232.log
+PocoInitializer_3312.log		    PocoInitializer_9368.log
+PocoInitializer_3312.log_backup1	    PocoInitializer_9612.log
+PocoInitializer_3332.log
+
+/c/ProgramData/NVIDIA Corporation:
+CrashDumps	     GfeBridges  NvFBCPlugin		      nvstreamsvc
+Downloader	     NV_Cache	 NVIDIA\ GeForce\ Experience  NvTelemetry
+DriverDumps	     NvAbHub	 nvstapisvr		      NvVAD
+Drs		     NvBackend	 nvStereoInstaller	      ShadowPlay
+GeForce\ Experience  NvFBC	 NvStreamSrv		      umdlogs
+
+/c/ProgramData/NZBGet:
+complete  nzb  nzbget.conf  nzbget.log	queue  scripts	tmp
+
+/c/ProgramData/Oracle:
+Java
+
+/c/ProgramData/Origin:
+27241ee441e6ce07545f020b3b9a27c5.olc  EntitlementCache	NonOriginContentCache
+AchievementCache		      IGOCache		production.wad
+CatalogCache			      local.xml		SelfUpdate
+CustomBoxartCache		      LocalContent	Subscription
+DownloadCache			      Logs		Telemetry
+
+/c/ProgramData/Package Cache:
+{008E7522-C30C-1954-BBED-1F8E65094A5B}v10.1.17134.12
+{019B0455-FFCB-1CDA-94AF-6B402E07FC23}v10.1.14393.33
+{02078319-BC7B-218A-7690-53692709C041}v10.1.17134.12
+{020CDFE0-C127-4047-B571-37C82396B662}v12.0.2000.8
+{0298bf05-e67a-4973-8ccc-7b13528189cb}
+{046D36A5-1ADC-E573-1078-5C8602994B1F}v10.1.17134.12
+{050d4fc8-5d48-4b8f-8972-47c82c46020f}
+{06b884b0-4947-4439-859f-098e431012d6}
+{09215AC7-B15F-A151-B90A-6B432EAD80A8}v10.1.16299.15
+{09472AF9-4E5C-419F-8AFC-E42DE3C00062}v3.6.6150.0
+{09D51995-D17C-35E4-9143-314298EB5155}v14.0.25431.01
+{0B28A1DB-A543-45FB-8767-DF71EE5A9323}v16.36.26615
+{0D6B41AF-D117-8944-A059-3F9346A896C5}v10.1.17134.12
+{0D9BEF83-4D44-5BCA-353F-07BA0A16CA46}v10.1.16299.15
+{0EC8A4AE-29FE-43B9-90C8-4D8D7D62393C}v8.50.40411
+{104CBBE4-1D61-05DD-38D2-C3BBA1C212E5}v10.1.17134.12
+{116A608A-3285-6139-277A-CF182A122F9D}v10.1.14393.33
+{13428472-D58E-476D-932F-5B1B0C1397BE}v3.6.6150.0
+{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}v12.0.21005
+{14AED748-B396-3E87-B885-7F20EDC6A0A8}v2.1.12.0
+{166EEF5C-F996-390E-91F6-DD6DFD008E9B}v14.0.25420
+{16EF5AB7-4A89-4F06-B20B-209DA4FE0533}v3.6.6150.0
+{18380907-0DDE-C70B-74D1-46F0144502CD}v10.1.17134.12
+{18ABFDF6-23D9-87E6-015E-FFE3C7F153D5}v10.1.17134.12
+{1970192A-1F0C-AE10-C6DA-30D84D524D0A}v10.1.14393.33
+{1E406B46-65F4-91CE-65DA-DB66D5443B68}v10.1.17134.12
+{1ED2023F-1164-33EE-A181-C3895E8F0A87}v14.0.25527
+{1F9EB3B6-AED7-4AA7-B8F1-8E314B74B2A5}v12.0.2000.8
+{20F0B3BE-3E51-4536-BE6E-451359FD5432}v3.6.6150.0
+{21603239-9380-AE0E-DCDF-FF910036043C}v10.1.17134.12
+{2230AE9A-A95A-4C15-A4D1-6536F4B24B7D}v14.0.25431
+{22DC8AC8-D9DC-8989-C12D-C74C3676BDB1}v10.1.17134.12
+{241CF4B0-1FCB-C443-433B-B663D59408A7}v10.1.17134.12
+{24771D6C-298A-42E9-BAFB-D9D144BB4993}v14.0.25527
+{27744187-E45F-41F3-8BC2-0DC5F9238FDB}v14.16.27033
+{2774595F-BC2A-4B12-A25B-0C37A37049B0}v12.0.2000.8
+{2890ae6b-90e9-448d-b3e6-97e43c21e2fd}
+{28FE86CA-745A-6C3B-3279-2879991FCF24}v10.1.17134.12
+{2D02967A-1085-4421-8559-B0147208EE13}v14.0.25431
+{2D359C7E-59C8-79A9-5157-FE9E189F5E8A}v10.1.14393.33
+{2E160818-A0AA-A092-97AF-93BF978F405E}v10.1.14393.33
+{2eabe091-c571-4b9d-bdaa-5df5d11c84d4}
+{2F0ECC80-B9E4-4485-8083-CD32F22ABD92}v4.6.01055
+{302A9B8D-5111-6C51-BB99-FF394C4A4255}v10.1.14393.33
+{305c8a42-62c1-4b59-b53f-09a9f066fd44}
+{30B0517F-1E18-3D45-A78C-C2E34B9A368D}v14.0.25431
+{31f2ca4b-f84d-4930-bc76-30d3ddb40bbc}
+{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}
+{346B2C02-CC0D-6E09-8B9D-CAA2821473CF}v10.1.17134.12
+{34C33843-D4CC-31A1-B656-B79C9175DF7C}v2.1.13.0
+{366FE23C-D417-99CF-9606-130F37CC6C3F}v10.1.17134.12
+{36EAD5CF-44EF-4FCF-8BE1-D96C4835D7A4}v1.0.11.0
+{3755CD99-C62E-3312-DDD3-29A4F259270D}v10.1.17134.12
+{37B8F9C7-03FB-3253-8781-2517C99D7C00}v11.0.61030
+{380602CD-5F67-486B-8F98-36A5EAD1A89F}v10.1.16299.15
+{389D182F-0ADA-5C7E-FF32-2573A821592C}v10.1.17134.12
+{3A5BBDEC-5254-43DA-F809-443771DBCB85}v10.1.17134.12
+{3A971391-8100-F9CB-06EB-6510C6B68937}v10.1.17134.12
+{4095D263-6A13-78D3-DEDA-AA3452011F6E}v10.1.17134.12
+{40A1FE86-43BB-FE81-2A71-B71E13F8167A}v10.1.17134.12
+{4100F789-5312-4A41-817C-3118F6F44CAB}v14.0.25431
+{43ABFB70-4DE2-4B7F-8C1D-CFCCF24BB37E}v16.116.28008
+{445D4B64-9E1D-C610-50B5-BAF5B11D7E70}v10.1.17134.12
+{44EC13CA-E201-433B-B2D3-386B9609B859}v3.6.6150.0
+{45885E89-108E-2590-C1D5-D3532C2435F7}v10.1.17134.12
+{45BA717B-9F10-3553-B582-2D1156747046}v14.0.24213
+{45D392D2-5956-4646-9CA6-83CBF67507B6}v10.1.0.0
+{463d5540-8dfd-4eef-92e5-b729b3b73cfb}
+{4740889B-2D03-3A6F-BC42-07C8AFDF3B2E}v2.2.25420
+{47D08E7A-92A1-489B-B0BF-415516497BCE}v12.0.2000.8
+{484E68E1-1646-4F06-E724-45B3416B21D6}v10.1.14393.33
+{4B16F2E6-8A76-5A63-2890-329FB7C98C70}v10.1.17134.12
+{4D137679-6FB4-446B-9BDB-279292FA2D2C}v3.6.6150.0
+{5073B1D2-656B-F677-AC77-5F8DAA8888B2}v10.1.17134.12
+{50C05B8C-47A8-FD93-B84E-6AAA99732700}v10.1.17134.12
+{527BFD3C-204A-3F01-8753-4DA781AF31B4}v14.0.24215
+{53D3ECD8-0D2B-4995-AF49-FA53620C6893}
+{586380AB-3003-92AB-EB8E-3C33020ED8C3}v10.1.17134.12
+{58E14198-F456-6D0E-B25D-38ECA55F1AE8}v10.1.14393.33
+{5ABDD743-82EB-444C-913F-F2BC033AEAE6}v16.36.26615
+{5AD4A604-B476-1578-2A20-6B02FC6258BE}v10.1.17134.12
+{5CE3EB5B-1823-4B8E-BE10-95262BDD1148}v3.6.6150.0
+{5D0FA3E6-0A32-37C1-96CD-4E9DFF785FC0}v14.0.24213
+{5f83ccda-0498-4b97-a298-16a642bf49f2}
+{6195c203-b53c-4bb7-983a-6070a902e704}
+{624ba875-fdfc-4efa-9c66-b170dfebc3ec}
+{62CB44B2-8007-DBB2-1CBA-5CB7309EB3C3}v10.1.17134.12
+{62D904BF-8577-433A-BF34-7F7F6E906E9E}v1.18.2156
+{63284722-E16B-4647-A8A5-BCA5BD15CA57}v8.127.25855
+{65835E57-3712-4382-990A-8D39008A8E0B}v14.16.27033
+{659933B1-9E32-49C7-AA84-5577CE5DF6E8}
+{66C5838F-B854-4A55-89E6-A6138747A4DF}v1.0.0.0
+{66CEB5CD-2D62-66EA-8969-BDC63E71D7B6}v10.1.17134.12
+{6730F3AB-D022-B4A6-29C0-C95A7836EED4}v10.1.17134.12
+{68BA34E8-9B9D-4A74-83F0-7D366B532D75}v12.0.2402.11
+{68CB8CFA-C0FA-4AC7-AEE9-C093EC573FDF}v16.116.28008
+{6970C7E1-F99D-388D-8903-DF8FCE677FED}v14.0.25431
+{6A0C6700-EA93-372C-8871-DCCF13D160A4}v4.5.50932
+{6BC13537-D39F-5BF2-85F3-E073AE3ED446}v10.1.16299.15
+{6BD4394B-DE2E-4D0A-B835-31E2BD9AEC38}v14.0.25431
+{6D4E3F1B-27CF-88EA-1FAA-D0F6E313F23B}v10.1.17134.12
+{6E43CA0C-046E-4F38-A0A2-3B1BA139B661}v10.1.17134.12
+{6EFCFA87-BB5E-7BE5-3936-BCADCFBFADEB}v10.1.17134.12
+{6F502640-B753-C101-FFA5-B38C3FA5B29A}v10.1.17134.12
+{71436CD5-3E63-CEE9-FC00-5124A5C9A931}v10.1.14393.33
+{718FFB65-F6E4-4D62-861F-ED10ED32C936}v12.0.2402.11
+{729DA966-8590-2C1F-2178-16C1D32FD7FD}v10.1.17134.12
+{763488F5-EAB7-3BB4-597F-81CA2F11535F}v10.1.17134.12
+{775886B8-DEE1-CB20-8A94-FC09FA54ECF6}v10.1.17134.12
+{7881C9DD-4357-4E3C-BE36-AFBFF26E69C4}v16.84.26919
+{7A95671A-759E-3B83-B763-4289D1D24D73}v14.102.25619
+{8068A09D-0DDA-BCD5-1CDB-7D30D78F1BBC}v10.1.17134.12
+{815F0BC1-7E54-300C-9ACA-C9460FDF6F78}
+{81B64FE0-5DC1-35D4-A51E-AD11803C520C}v14.0.25431
+{825784BB-114D-ADB3-B65F-E1EB2A63C3BC}v10.1.17134.12
+{833F02C5-2C39-49F6-BD64-91D351081274}v10.1.15254.1
+{83707B3E-47D2-4839-D1CF-FEC213D3C8E7}v10.1.17134.12
+{84C6B91B-67DA-DDE3-86F1-87A3E307E8C1}v10.1.17134.12
+{86E59C8F-61D5-1782-A3CE-60AE7E4D7791}v10.1.16299.15
+{88072DD5-CE0A-3AB3-A9DF-53031BFE8BA0}v2.0.13103.0
+{88D1025F-45D0-45C6-9EDB-379C2EE07AD7}v14.16.27033
+{8BC3EEC9-090F-4C53-A8DA-1BEC913040F9}v4.6.01055
+{8C4160A1-6C94-FC27-A086-D0FC3A297153}v10.1.17134.12
+{8CBFAC58-3058-B2AD-10E2-9E2A859B554B}v10.1.16299.15
+{8CC5692D-EC4C-49F9-82ED-92065D829FBB}v1.18.2156
+{8EEB28EE-5141-411C-9CF0-9952264FE4AF}v4.6.01055
+{921D9904-2313-037F-31B4-D62B9988E236}v10.1.16299.15
+{929FBD26-9020-399B-9A7A-751D61F0B942}v12.0.21005
+{94E1227C-08A9-4962-B388-1F05D89AEA75}v3.1238.1962
+{95BAF59B-A729-B891-1F6B-E888757F55F4}v10.1.14393.33
+{965D1746-D94A-49B9-2A48-A14914CA3B57}v10.1.17134.12
+{99E0F2B6-0FEC-3CCD-E857-55B91C73D1D4}v10.1.17134.12
+{9AC65F8A-4F7F-A9FC-222F-CC43ED464041}v10.1.17134.12
+{9BE8D98D-4E3B-4C5F-9C8B-277B6300500F}
+{9D8D733D-3822-4808-B382-6291910081B2}v3.6.6150.0
+{A0B6B6D7-5ECA-4A37-182A-05D4F5A4E530}v10.1.17134.12
+{A308948E-D2D2-3323-A336-49DBA82964D7}v14.102.25619
+{A44E9804-C2AA-40DD-9E6F-F53D96BDAD34}v3.6.6150.0
+{A56A86E5-611B-CB25-42DF-A0B6EF394E02}v10.1.14393.33
+{A60760B2-EF83-1EB6-BC8E-B9A7EC91D3D6}v10.1.16299.15
+{A6EFB3CD-C4B4-878E-1DFF-F01FAF9A1A34}v10.1.16299.15
+{A7059477-891A-48E4-B01E-34E3B0770A44}
+{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}v12.0.21005
+{A75E492B-1D84-4E86-BDCA-077B4C536B6D}v16.36.26615
+{A84B4CAC-C89B-FAD4-87CC-B2B547E4AFDF}v10.1.17134.12
+{A84E400C-7471-0320-8464-2A6B165B5DB3}v10.1.14393.33
+{A9D6F52C-694E-3E41-7AB8-5BEB644742A5}v10.1.16299.15
+{A9DED8BE-05DF-45D5-81A0-3743A44CC0C9}v3.6.6386.0
+{AD132FA6-AEDF-48AA-A0BA-D31A32D399B9}
+{ADA70C3D-0ADD-4173-8B77-B501300515D9}v8.116.58436
+{AF61914E-EB84-401F-BFEB-08C30CF625BE}
+{B175520C-86A2-35A7-8619-86DC379688B9}v11.0.61030
+{B5CEC165-2F1F-4348-37A3-BB31DA90BD68}v10.1.16299.15
+{B6273353-8B54-1F89-1A16-5940925104CE}v10.1.17134.12
+{B9424F08-0617-C4F6-A798-5A9250C1A738}v10.1.16299.15
+{BA5762C7-D35F-4725-A4BD-525854127018}v1.8.36.0
+{BA6F1D53-C3F2-F9D5-80CE-CEF608E36AD3}v10.1.17134.12
+{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}v11.0.61030
+{BEB59D04-C6DD-4926-AFEB-410CBE2EBCE4}v16.84.26919
+{C12887C1-91E2-4C05-5D06-7DC02AE4A627}v10.1.17134.12
+{C1C8E6C3-F739-36C3-A02B-1DED2EE23766}v14.0.24213
+{C3243E23-2EB6-4419-2692-40944923B112}v10.1.17134.12
+{C3776B36-B34E-00E2-3009-95A6F1870B58}v10.1.17134.12
+{C4752757-9240-4518-BE22-A7E2E7CC7D7B}v3.6.6150.0
+{C57CFD83-4BD5-4E3B-8007-047B7267FF6C}v16.112.27818
+{C5BD9A00-9221-486E-94BF-9B1553B215AF}v3.6.6150.0
+{C63E9058-B5E7-6637-9EC6-4953A7D54F77}v10.1.17134.12
+{c6c5a357-c7ca-4a5f-9789-3bb1af579253}
+{C74C87F5-49E8-4C53-BA41-40CFDEE0D93E}
+{C8FE2B4D-9C81-DD3B-D414-0E0B3BFE51D1}v10.1.17134.12
+{C9596636-022D-4123-B369-98819F772985}v3.6.6150.0
+{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}
+{cc3a7c63-31fb-4129-9024-63ebefd86a95}
+{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}v11.0.61030
+{D1DCF56C-C29C-436A-9764-DEA45032EC46}v3.6.6150.0
+{D2ECD013-8AD5-405B-9624-59568BA92FFD}v16.84.26919
+{D3517C62-68A5-37CF-92F7-93C029A89681}v4.5.50932
+{D49DF187-7968-A39D-CF62-EBE13CAE9068}v10.1.17134.12
+{D5AEE36E-4771-4F65-BDB6-8C59077BFBE4}v14.16.27033
+{D86E4022-2886-808F-BA10-9C0EE9956860}v10.1.17134.12
+{D9CAC4A5-7F4C-3792-90F1-C93F4FDB4120}v14.0.25431
+{DAF0FADD-5651-42EB-BE2F-B944A0B13283}v16.116.28008
+{DB9987CB-2289-4466-9D1A-57D7802799E4}v8.127.9464
+{E053089E-7953-3219-814F-F485FC151C54}v10.1.16299.15
+{E3B98FCC-416A-A89A-E672-333BF429632F}v10.1.17134.12
+{E95CEC86-EFB3-47B8-A5F6-C8FB757AD060}v3.6.6150.0
+{E96B47FB-9BB8-2C34-84B7-82F25DE6DCE7}v10.1.17134.12
+{ECAF37BB-646F-38C0-9804-EF21A5813A68}v2.1.13320.0
+{F1C18506-3168-A9D9-E2D9-D23A512A326E}v10.1.17134.12
+{f23f94c5-8bba-4202-85ad-c83d4402cdc1}
+{F3F23EAE-D617-3A1F-8717-FACD35A1ECEE}v14.0.25431
+{f65db027-aff3-4070-886a-0d87064aabb1}
+{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}v12.0.21005
+{FA57EACC-E7E8-406A-83FA-168A812BD079}v10.1.17134.12
+{FC40D86D-520A-40E0-BE46-22CF343A54F1}v16.112.27818
+{FD733BA2-59BF-4BF1-ADD4-14A1F3EB98CD}v14.0.25431
+{FDBB1A62-A051-92FA-DB8F-206BA077F7E1}v10.1.17134.12
+{FDCFD759-BA24-F0C8-FE83-43513EE6D443}v10.1.17134.12
+{FE6E0E4B-6775-43E3-8953-01827039E1C8}v16.112.27818
+11DA17FF-0F9E-3B1D-8070-4B39DCA3FFB9
+1DC8404EE32E731EC1B170A992B7208CE63094E7
+3155CB0F146B927FCC30647C1A904CD162548C8C
+3C67018BF2EF25B0C3E9DF7350D6FE267C7E9243
+49581158-5783-3362-AD2A-AA0CD747C660
+BE2B49C11BDA2B5705E6A6C13C35D246EA5AD0F9
+BFB74E498C44D3A103CA3AA2831763FB417134D1
+EFFBF3BD325EF6B1629D03B4B9B3A1B491F59C5D
+NetFxIsv394271
+
+/c/ProgramData/Protexis64:
+31126064.sys  KGyGaAvL.sys
+
+/c/ProgramData/regid.1986-12.com.adobe:
+regid.1986-12.com.adobe_V7{}AcrobatCont-12-Win-GM.swidtag
+
+/c/ProgramData/regid.1991-06.com.microsoft:
+regid.1991-06.com.microsoft\ Office\ 16\ Click-to-Run\ Extensibility\ Component.swidtag
+regid.1991-06.com.microsoft\ Office\ 16\ Click-to-Run\ Licensing\ Component.swidtag
+regid.1991-06.com.microsoft\ Office\ 16\ Click-to-Run\ Localization\ Component.swidtag
+regid.1991-06.com.microsoft.9b656bf2.swidtag
+regid.1991-06.com.microsoft_Windows-10-Pro.swidtag
+
+/c/ProgramData/SoftwareDistribution:
+
+/c/ProgramData/Sophos:
+AutoUpdate			    Sophos\ Data\ Control
+Certificates			    Sophos\ Device\ Control
+Management\ Communications\ System  Sophos\ Tamper\ Protection
+Remote\ Management\ System	    Web\ Control
+Sophos\ Anti-Virus		    Web\ Intelligence
+
+/c/ProgramData/Start Menu:
+desktop.ini  Programs
+
+/c/ProgramData/Templates:
+
+/c/ProgramData/UniqueId:
+data
+
+/c/ProgramData/Unity:
+Unity_lic.ulf
+
+/c/ProgramData/USOShared:
+Logs
+
+/c/ProgramData/VirtualBox:
+VBoxSDS.log	VBoxSDS.log.2  VBoxSDS.log.5  VBoxSDS.log.8
+VBoxSDS.log.1	VBoxSDS.log.3  VBoxSDS.log.6  VBoxSDS.log.9
+VBoxSDS.log.10	VBoxSDS.log.4  VBoxSDS.log.7
+
+/c/ProgramData/VsTelemetry:
+Default
+
+/c/ProgramData/Wargaming.net:
+GameCenter
+
+/c/ProgramData/Western Digital:
+logs
+
+/c/ProgramData/Windows App Certification Kit:
+cs-cz  en-us  fr-fr  ja-jp  pl-pl  qps-ploc	ru-ru  wp-results.xsl	 zh-cn
+de-de  es-es  it-it  ko-kr  pt-br  results.xsl	tr-tr  wslk_strings.xml  zh-tw
